@@ -30,6 +30,7 @@ Replace "org.sintef.jarduino.gui.JArduinoGUI" with your own main class
 
 
 Please read our [2-minute tutorial] (https://github.com/SINTEF-9012/JArduino/wiki/2-Minute-Tutorial)
+[Here](https://www.arduino.cn/thread-7217-1-1.html) is a chinese tutorial. Thanks to 张小刚哟 in ardinuo.cn.
 
 
 ## Ethernet usage
